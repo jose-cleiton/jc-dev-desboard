@@ -1,9 +1,11 @@
 <template>
-  <div class="home">
-    
-    <HelloWorld msg="Bem Vindo a meu Site"/>
-  </div>
+  <main>
+
+  </main>
 </template>
 
 <script lang="ts" src="./HomeView.ts"></script>
 
+<style src="./HomeView.css">
+
+</style> >

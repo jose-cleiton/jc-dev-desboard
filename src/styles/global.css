@@ -5,6 +5,8 @@
   --color-text-light:#EDEDED;
   --color-text-title:#FF5555;
   --color-text-dark:#3D3D3D;
+  --width-nav-mobile:100%;
+  --height-nav-mobile:60px;
 }
 
 
@@ -27,4 +29,9 @@ a{
 
 a:hover{
   opacity: 0.8;
+}
+
+.container{
+  width: 90%;
+  
 }

@@ -6,4 +6,4 @@
   <router-view/>
 </template>
 
-<style src="./App.css"></style>
+<style src="../../styles/global.css"></style>
